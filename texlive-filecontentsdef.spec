@@ -1,6 +1,6 @@
 Name:		texlive-filecontentsdef
 Version:	52208
-Release:	1
+Release:	2
 Summary:	filecontents + macro + verbatim
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/filecontentsdef
